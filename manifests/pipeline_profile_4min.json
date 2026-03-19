@@ -1,0 +1,13 @@
+{
+  "profile_name": "episode_4min_standard",
+  "description": "기본 김차장 에피소드 4분 세팅",
+  "duration_seconds": 240,
+  "scene_duration_seconds": 5,
+  "scene_count": 48,
+  "summary_count": 5,
+  "audio_voice": "Sadaltager",
+  "image_generation_model": "gemini-3-flash-preview",
+  "character_reference_required": true,
+  "language": "ko",
+  "background_style": "white_infographic"
+}
