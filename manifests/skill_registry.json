@@ -1,0 +1,70 @@
+{
+  "skills": [
+    {
+      "id": "global_hard_rules",
+      "file": "skills/00_global_hard_rules.md",
+      "priority": 0,
+      "required": true
+    },
+    {
+      "id": "global_persona_kimchajang",
+      "file": "skills/00_global_persona_kimchajang.md",
+      "priority": 1,
+      "required": true
+    },
+    {
+      "id": "topic_research_agent",
+      "file": "skills/01_topic_research_agent.md",
+      "priority": 2,
+      "required": true
+    },
+    {
+      "id": "factcheck_agent",
+      "file": "skills/02_factcheck_agent.md",
+      "priority": 3,
+      "required": true
+    },
+    {
+      "id": "scriptwriting_agent",
+      "file": "skills/03_scriptwriting_agent.md",
+      "priority": 4,
+      "required": true
+    },
+    {
+      "id": "audio_package_agent",
+      "file": "skills/04_audio_package_agent.md",
+      "priority": 5,
+      "required": true
+    },
+    {
+      "id": "visual_storyboard_agent",
+      "file": "skills/05_visual_storyboard_agent.md",
+      "priority": 6,
+      "required": true
+    },
+    {
+      "id": "summary_visual_agent",
+      "file": "skills/06_summary_visual_agent.md",
+      "priority": 7,
+      "required": true
+    },
+    {
+      "id": "thumbnail_package_agent",
+      "file": "skills/07_thumbnail_package_agent.md",
+      "priority": 8,
+      "required": true
+    },
+    {
+      "id": "upload_package_agent",
+      "file": "skills/08_upload_package_agent.md",
+      "priority": 9,
+      "required": true
+    },
+    {
+      "id": "quality_assurance_agent",
+      "file": "skills/09_quality_assurance_agent.md",
+      "priority": 10,
+      "required": true
+    }
+  ]
+}
