@@ -1,0 +1,10 @@
+{
+  "profile_name": "default",
+  "runtime_minutes": 4,
+  "scene_count": 48,
+  "summary_shots": 5,
+  "voice": "Sadaltager",
+  "image_model": "gemini-3-flash-preview",
+  "background": "white",
+  "localization": "ko-KR"
+}
